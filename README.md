@@ -5,6 +5,10 @@
 In the provided demonstration, I showcase the utilization of this script in conjunction with the setup of Azure Sentinel (SIEM). The demonstration involves the connection to a live virtual machine functioning as a honeypot, enabling real-time observation of global RDP brute force attacks. The custom PowerShell script is then employed to query the attackers' geolocation information, which is subsequently visualized on an Azure Sentinel Map.
 
 
+![RDPmap](https://github.com/hdonelow/Failed-RDP-attack-showcase/assets/43560793/024a9130-1c20-4f2e-ad18-4cbbf729796d)
+
+
+
 Key Features:
 
 PowerShell script for extracting RDP failed logon logs from Windows Event Viewer.
