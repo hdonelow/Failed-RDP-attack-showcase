@@ -32,3 +32,5 @@ Specifically tailored for RDP brute force attacks.
 Geographic information provides insights into the global origin of the attacks.
 Custom logs enhance the tracking and analysis of attack patterns.
 This project aims to enhance situational awareness by correlating RDP attack data with geographic details, ultimately contributing to a comprehensive understanding of the threat landscape.
+
+https://youtu.be/5Zoeb2dkE9Y?si=FI4oCNiQ5yY5Arx_ 
